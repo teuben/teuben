@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-## Stuff I work on
+#### Stuff I work on
 
 NEMO, miriad, casa, ADMIT, ASCL
 
-## Stuff I use/like
+#### Stuff I use/like
 
 ds9, karma, amuse, glnemo2, glue (glueviz)
 
