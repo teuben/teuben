@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Stuff I work on
+
+NEMO, miriad, casa, ADMIT, ASCL
+
+## Stuff I use/like
+
+ds9, karma, amuse, glnemo2, glue (glueviz)
+
