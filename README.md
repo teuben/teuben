@@ -1,26 +1,20 @@
-### Peter Teuben
-
-<!--
-**teuben/teuben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Astronomer at Work! 
 
 
 #### Stuff I work on
 
-NEMO, miriad, casa, ADMIT, ASCL
+ADMIT,
+ASCL,
+miriad,
+NEMO,
+tp2vis
 
 #### Stuff I use/like
 
-ds9, karma, amuse, glnemo2, glue (glueviz)
+amuse,
+casa,
+ds9,
+glnemo2,
+glue (glueviz)
+karma,
 
