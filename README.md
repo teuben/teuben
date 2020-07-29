@@ -6,14 +6,15 @@
 ADMIT,
 adass-proceedings,
 All Sky Camera,
-ASCL,
+[ASCL](https://ascl.net),
 miriad,
 NEMO,
 tp2vis
 
-#### Stuff I use/like
+#### Stuff I use/like/worked on
 
 amuse,
+athena,
 astropy,
 casa,
 ds9,
@@ -23,6 +24,3 @@ glue (glueviz)
 karma,
 Montage,
 
-#### Stuff I worked on
-
-athena
