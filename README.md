@@ -3,19 +3,21 @@
 
 #### Stuff I work on
 
-ADMIT,
-adass-proceedings,
-All Sky Camera,
+[ADMIT](https://github.com/astroumd/admit),
+[adass-proceedings](https://github.com/astroumd/ADASSProceedings),
+[All Sky Camera](https://github.com/teuben/pyASC),
 [ASCL](https://ascl.net),
 [GBO dysh](https://github.com/GreenBankObservatory/dysh),
 [LMT](https://github.com/astroumd/lmtoy),
-miriad,
-NEMO,
-tp2vis
+[miriad](https://github.com/astroumd/miriad),
+[NEMO](https://github.com/teuben/nemo),
+[tp2vis](https://github.com/tp2vis/distribute)
 
 #### Stuff I use/like/worked on
 
 amuse,
+astropy,
+astroquery,
 athena,
 astropy,
 casa,
@@ -25,4 +27,6 @@ glnemo2,
 glue (glueviz),
 karma,
 Montage,
+specutils,
+starlab
 
