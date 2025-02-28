@@ -30,3 +30,6 @@ Montage,
 specutils,
 starlab
 
+#### How I work
+
+I use linux, but I work on so many machines, that I need [teunix](https://github.com/teuben/teunix) to manage my accounts.
