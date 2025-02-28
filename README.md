@@ -32,4 +32,5 @@ starlab
 
 #### How I work
 
-I use linux, but I work on so many machines, that I need [teunix](https://github.com/teuben/teunix) to manage my accounts.
+I use linux, but I work on so many machines, that I need [teunix](https://github.com/teuben/teunix) to manage my accounts. Because it's Unix, 
+it also works on MacOSX and Windows/WSL.
